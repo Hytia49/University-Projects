@@ -1,5 +1,4 @@
 # Late prediction on IRIGO Traffic
-This project consist to analyze a large database of
 Clara Lambert & Chen Yang project
 
 [![N|Solid](https://files.irigo.fr/s3fs-public/Logo-Irigo-couleur.jpg?VersionId=na9h5j.EIGMTOgUE0IvaZPxEXRKLqnol)](https://nodesource.com/products/nsolid)
