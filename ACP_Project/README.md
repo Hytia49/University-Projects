@@ -1,5 +1,5 @@
 
-# Principal composant analysis project
+# Principal composant analysis mini-project
 Authors : Clara.L - Chen.Y
 
 This mini-project involves performing a principal component analysis on a database representing French towns and information about them (11 variables).
