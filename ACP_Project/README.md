@@ -1,10 +1,16 @@
 
-# Analyse en composante principale
-## Auteurs : Clara.L - Chen.Y
+# Principal composant analysis project
+Authors : Clara.L - Chen.Y
 
-Ce projet consiste à faire une analyse en composante principale sur une base de données représentant des villes de France et des informations les concernant (11 variables).
+This mini-project involves performing a principal component analysis on a database representing French towns and information about them (11 variables).
 
-__Les Variables__
+
+__Starting__
+
+- Download the R script on your computer
+- Run it with a R editor (like RStudio for example)
+
+__Variables__
 
 Chômage (%) | 
 Mortalité (nbre d'habitants / année) |
@@ -18,7 +24,4 @@ cinémas (unité inconnue) |
 température (°C) |
 Région (string) 
 
-__Le script__
-
-Il suffit de lancer le script 'Projet ACP.R' dans le dossier 'ACP_Project/' pour faire l'ACP.
 
